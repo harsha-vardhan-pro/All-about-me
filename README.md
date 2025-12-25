@@ -1,4 +1,5 @@
 # All-about-me
+My name is G.Harshavardhan.
 I started my journey into coding in my Btech 1st year.
 I am studying in a well reputed college AMRITA VISHWAVIDHYA PEETHAM, in AMRITAPURI campus, CSE branch.
 I did not give much attention towards coding even though I am a computer science student despite having best resources and teachings
