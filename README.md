@@ -7,3 +7,5 @@ I am starting this in my 1st year semester break.
 Starting with java language which is said to be most volatile and valuable because of it's toughness as many people say.
 Currently I don't know what domain I want to go.
 So i just started with learning FUL_STACK development decided to explore in web-development. 
+But before diving into web development I wanted to learn version control system(Git and Github)
+So I started learning Git and Github along with a programming language (JAVA).
